@@ -145,9 +145,9 @@ Our current roadmap includes:
 
 ## 💬 Social Media
 
-- **Twitter**: [@edcopo](https://twitter.com/edcopo)
+- **Twitter**: [@edcopo](https://twitter.com/edcopo_)
 - **LinkedIn**: [Edcopo LinkedIn](https://www.linkedin.com/company/edcopo)
-- **Discord/Slack**: [Join the community chat](https://discord.gg/edcopo)
+- **Discord/Slack**: [Join the community chat]([https://discord.gg/B8QBCEvd])
 
 ## 📜 License
 
